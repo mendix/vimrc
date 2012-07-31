@@ -1,5 +1,3 @@
-colorscheme bensday
-
 " The basics
 " I want this everywhere, all the time
 syntax on
