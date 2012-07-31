@@ -8,8 +8,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
-" Line numbers are great, however, when copying press F2
-set number
+" Easy line numbers toggle
 nnoremap <F2> :set nonumber!<CR>:set foldcolumn=0<CR>
 
 " I really don't care about being VI compatible
