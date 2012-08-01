@@ -42,3 +42,6 @@ set hlsearch
 set ignorecase
 
 autocmd BufRead,BufNewFile /etc/bind/zone/* set filetype=bindzone
+
+" Swap files are not cool
+set noswapfile
