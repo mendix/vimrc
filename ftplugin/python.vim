@@ -1,5 +1,3 @@
-setlocal foldmethod=indent
-setlocal foldopen+=jump
 nnoremap <F5> :!pyflakes %<CR>
 nnoremap <F6> :!pep8 %<CR>
 nnoremap <F7> :!pylint %<CR>
